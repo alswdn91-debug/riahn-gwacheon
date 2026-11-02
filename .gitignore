@@ -1,0 +1,15 @@
+CLAUDE.md
+0_본사공통/
+_기준사이트/
+1_매장정보/
+2_매장사진/
+3_시술사진/
+4_디자이너/
+5_채용/
+6_메인화면/
+*.txt
+!robots.txt
+!llms.txt
+.DS_Store
+Thumbs.db
+desktop.ini

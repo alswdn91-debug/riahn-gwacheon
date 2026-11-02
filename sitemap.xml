@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://riahn-gwacheon.kr/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/en/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/ja/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/zh/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/cut/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/cut/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/cut/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/cut/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/cut/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/cut/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/en/cut/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/cut/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/cut/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/cut/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/cut/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/cut/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/ja/cut/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/cut/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/cut/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/cut/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/cut/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/cut/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/zh/cut/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/cut/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/cut/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/cut/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/cut/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/cut/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/perm/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/perm/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/perm/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/perm/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/perm/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/perm/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/en/perm/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/perm/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/perm/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/perm/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/perm/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/perm/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/ja/perm/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/perm/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/perm/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/perm/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/perm/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/perm/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/zh/perm/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/perm/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/perm/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/perm/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/perm/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/perm/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/color/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/color/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/color/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/color/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/color/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/color/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/en/color/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/color/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/color/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/color/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/color/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/color/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/ja/color/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/color/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/color/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/color/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/color/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/color/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/zh/color/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/color/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/color/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/color/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/color/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/color/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/clinic/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/clinic/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/en/clinic/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/clinic/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/ja/clinic/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/clinic/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/zh/clinic/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/clinic/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/clinic/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/designers/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/designers/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/designers/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/designers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/designers/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/designers/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/en/designers/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/designers/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/designers/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/designers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/designers/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/designers/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/ja/designers/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/designers/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/designers/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/designers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/designers/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/designers/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/zh/designers/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/designers/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/designers/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/designers/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/designers/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/designers/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/gallery/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/gallery/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/en/gallery/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/gallery/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/ja/gallery/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/gallery/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/zh/gallery/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/gallery/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/gallery/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/faq/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/faq/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/faq/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/en/faq/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/faq/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/faq/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/ja/faq/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/faq/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/faq/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/zh/faq/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/faq/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/faq/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/faq/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/location/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/location/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/location/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/location/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/location/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/location/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/en/location/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/location/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/location/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/location/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/location/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/location/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/ja/location/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/location/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/location/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/location/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/location/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/location/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/zh/location/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/location/"/>
+    <xhtml:link rel="alternate" hreflang="en"        href="https://riahn-gwacheon.kr/en/location/"/>
+    <xhtml:link rel="alternate" hreflang="ja"        href="https://riahn-gwacheon.kr/ja/location/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN"     href="https://riahn-gwacheon.kr/zh/location/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/location/"/>
+  </url>
+  <url>
+    <loc>https://riahn-gwacheon.kr/recruit/</loc>
+    <lastmod>2026-11-02</lastmod>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ko"        href="https://riahn-gwacheon.kr/recruit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://riahn-gwacheon.kr/recruit/"/>
+  </url>
+</urlset>
