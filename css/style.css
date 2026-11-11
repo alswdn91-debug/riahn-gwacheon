@@ -641,3 +641,23 @@ html.pf-open,html.pf-open body{overflow:hidden}
 @media(min-width:1000px){.designer-grid.four{grid-template-columns:repeat(4,1fr)}}
 /* 히어로 문구 줄바꿈 (2026-11-02): 지정한 위치에서만 줄이 나뉘도록 묶음 */
 .hero-text .keep{display:inline-block}
+/* 디자이너 시술 사진: 누르면 크게 보이며 설명 표시 (details 사용 · 스크립트 없음 · 2026-11-11) */
+.pf-more summary{list-style:none;cursor:pointer}
+.pf-more summary::-webkit-details-marker{display:none}
+.pf-row li:has(.pf-more[open]){flex-basis:100%;grid-column:1/-1}
+.pf-more[open] .pf-zoom{display:none}
+.pf:has(.pf-more[open]) .pf-hint{display:none}
+@media(min-width:720px){.pf-row li:nth-child(n+4){display:block}}
+/* 디자이너 시술 사진 넘기기 버튼 (PC · 2026-11-11) — 사진이 많아도 카드 높이 유지 */
+.pf-arrows{display:none;gap:6px}
+.pf-arrows button{width:30px;height:30px;border-radius:50%;border:1px solid var(--line);background:var(--white);color:var(--ink);font-size:18px;line-height:1;cursor:pointer;padding:0}
+.pf-arrows button:hover:not(:disabled){border-color:var(--accent);color:var(--accent-dark)}
+.pf-arrows button:disabled{opacity:.35;cursor:default}
+@media(min-width:720px){
+  .pf-row{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scroll-behavior:smooth}
+  .pf-row li{flex:0 0 calc((100% - 8px) / 2)}
+  .pf-row li:has(.pf-more[open]){flex-basis:100%}
+  .pf-arrows{display:inline-flex}
+  .pf.no-scroll .pf-arrows{display:none}
+}
+.pf-row .pf-menu{overflow-wrap:anywhere}
